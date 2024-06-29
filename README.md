@@ -25,7 +25,7 @@
   <img align="center" alt="AYNA-SQLLITE" height="30" width="100" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white">
 </div>
 
-<h1>Idles and Tools</h1>
+<h1>Ides and Tools</h1>
 <div>
     <img align="center" alt="AYNA-VSC" height="30" width="100" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
   <img align="center" alt="AYNA-ECLIPSE" height="30" width="100" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white">
