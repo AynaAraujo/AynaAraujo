@@ -22,7 +22,7 @@
   <img align="center" alt="AYNA-TAILWIND" height="30" width="100" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="AYNA-TAILWIND" height="30" width="100" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
   <img align="center" alt="AYNA-SQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-   <img align="center" alt="AYNA-SQL" height="30" width="100" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white">
+  <img align="center" alt="AYNA-SQLLITE" height="30" width="100" src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white">
 </div>
 
 <h1>Idles and Tools</h1>
