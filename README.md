@@ -1,7 +1,7 @@
 <h1>HELLO I'M AYNA!</h1>
 
 
-- 🔭 Computer Engineering Studente at UPE(5/10)
+- 🔭 Computer Engineering Student at UPE(5/10)
 - 🌱 I’m learning: SQL, Django and Node.js
 - 📫 Contact: aynaMaraujO@upe.br
 - 😄 Pronouns:she/her
