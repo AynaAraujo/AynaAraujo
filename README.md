@@ -2,7 +2,7 @@
 
 
 - 🔭 Computer Engineering Student at UPE(5/10)
-- 🌱 I’m learning: SQL, Django and Node.js
+- 🌱 I’m learning: SQL, NoSQL, Data Engineering, Pipelines With Python
 - 📫 Contact: aynaMaraujo@gmail.com
 - 😄 Pronouns:she/her
 
@@ -27,13 +27,15 @@
 
 <h1>Ides and Tools</h1>
 <div>
-    <img align="center" alt="AYNA-VSC" height="30" width="100" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
+  <img align="center" alt="AYNA-VSC" height="30" width="100" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
   <img align="center" alt="AYNA-ECLIPSE" height="30" width="100" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white">
   <img align="center" alt="AYNA-pYCHARM" height="30" width="100" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white">
-   <img align="center" alt="AYNA-Insomia" height="30" width="100" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
+  <img align="center" alt="AYNA-Insomia" height="30" width="100" src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
   <img align="center" alt="AYNA-github" height="30" width="100" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img align="center" alt="AYNA-ubuntu" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0">
   <img align="center" alt="AYNA-figma" height="30" width="100" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
   <img align="center" alt="AYNA-JIRA" height="30" width="100" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
   <img align="center" alt="AYNA-figma" height="30" width="100" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+ 
   
 </div>
