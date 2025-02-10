@@ -2,7 +2,7 @@
 
 
 - 🔭 Computer Engineering Student at UPE(5/10)
-- 🌱 I’m learning:Data Engineering and PowerBI
+- 🌱 I’m learning:Data Engineering 
 - 📫 Contact: aynaMaraujo@gmail.com
 - 😄 Pronouns:she/her
 
